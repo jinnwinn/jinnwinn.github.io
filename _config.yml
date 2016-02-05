@@ -30,8 +30,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jinnwinn.github.io/material" # the base hostname & protocol for your site
 css: "grey"
-scroll-cursor: "#00BCD4"
-scroll-rail: "#0097A7"
+scroll-cursor: "#212121"
+scroll-rail: "#616161"
 
 # Build settings
 markdown: kramdown
