@@ -29,7 +29,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Center for Technology in Education
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jinnwinn.github.io/material" # the base hostname & protocol for your site
-css: "cyan"
+css: "grey"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
